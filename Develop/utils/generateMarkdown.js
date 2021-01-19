@@ -13,7 +13,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(licenceurl) {
   if (licenceurl !== "None"){
-    return '* ![licenceurl]( ${licenceurl})'
+    return '* ![Licence Url]( ${licenceurl})'
   }
   else
   return '* '
@@ -26,7 +26,8 @@ function renderLicenseSection(license,licenceurl) {
   if (license !== "None"){
   return (`## License
 This repo is licensed under ${license}  license\n 
-${renderLicenseBadge(license)} ${renderLicenseLink(licenceurl)}
+${renderLicenseBadge(license)}\n
+${renderLicenseLink(licenceurl)}
 `
   )
 }
@@ -45,14 +46,14 @@ function generateMarkdown(data) {
 ${data.description}
 
 ## Table of Contents
-* [Installation flow](#installation)
+* [installation](#installation)
 * [Usage](#usage)
-* [Contributers](#contributing)
+* [Contributers](#contributers)
 * [Tests](#tests)
 * [License](#licence)
 * [Questions](#questions)
 
-## Instatllation
+## installation
 Use following commands to install dependencies:
 ${data.installation}
 
