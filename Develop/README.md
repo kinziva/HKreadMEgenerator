@@ -1,9 +1,9 @@
-# readme file generator
+# Read me generator
   kinziva
   ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
 
 ## Description
-create a readme file with user inputs
+create a radme file with use rinputs
 
 ## Table of Contents
 * [Installation](#installation)
@@ -39,7 +39,7 @@ Used the following command to run tests:
 
 ## Questions
 Contact me with any questions
-*  [Github Name:]( kinziva)
-*  [Repository Url:] (https://github.com/kinziva/)
-*  [E-mail:] (hk@g.com)
+*  Github Name: kinziva
+*  [Repository Url](https://github.com/kinziva)
+*  [E-mail](hk@g.com)
 

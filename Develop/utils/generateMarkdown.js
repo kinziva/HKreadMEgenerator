@@ -55,12 +55,14 @@ ${data.description}
 
 ## installation
 Use following commands to install dependencies:
-${data.installation}
+...
+* ${data.installation}
+...
 
 ## Usage
 ${data.usage}
 
-${renderLicenseSection(data.license)}
+${renderLicenseSection(data.license,data.licenseurl)}
 
 ## Contributers
 * ${data.Contributers}
@@ -68,14 +70,14 @@ ${renderLicenseSection(data.license)}
 ## Tests
 Used the following command to run tests:
 ...
- ${data.tests}
+*${data.tests}
 ...
 
 ## Questions
 Contact me with any questions
-*  [Github Name:]( ${data.username})
-*  [Repository Url:] (${data.repo})
-*  [E-mail:] (${data.email})
+*  Github Name: ${data.username}
+*  [Repository Url:](${data.repo})
+*  [E-mail:](${data.email})
 
 `;
 }
