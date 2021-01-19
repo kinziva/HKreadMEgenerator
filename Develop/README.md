@@ -1,43 +1,45 @@
-# sa
-  a
+# Readme Generator
+  kinziva
   ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
 
 ## Description
-a
+Create a user input readme file for your app
 
 ## Table of Contents
-* [Installation flow](#installation)
+* [installation](#installation)
 * [Usage](#usage)
-* [Contributers](#contributing)
+* [Contributers](#contributers)
 * [Tests](#tests)
 * [License](#licence)
 * [Questions](#questions)
 
-## Instatllation
+## installation
 Use following commands to install dependencies:
-a
+npm install
 
 ## Usage
-a
+node index.js
 
 ## License
 This repo is licensed under ISC  license
  
-![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg) * ![licenceurl]( a-${licenceurl}-b)
+![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
+
+* ![Licence Url]( ${licenceurl})
 
 
 ## Contributers
-a
+Hkeskin
 
 ## Tests
 Used the following command to run tests:
 ...
-a
+not yet
 
 ## Questions
 Contact me with any questions
-  Github Name: a
-  Repository Url: a
-  E-mail: a
+  Github Name: kinziva
+  Repository Url: https://github.com/kinziva
+  E-mail: hk@g.com
 
 
