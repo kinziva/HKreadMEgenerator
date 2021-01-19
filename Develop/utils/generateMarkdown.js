@@ -13,7 +13,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(licenceurl) {
   if (licenceurl !== "None"){
-    return '* ![Licence Url]( ${licenceurl})'
+    return '[Licence Url]( ${licenceurl})'
   }
   else
   return '* '
@@ -46,7 +46,7 @@ function generateMarkdown(data) {
 ${data.description}
 
 ## Table of Contents
-* [installation](#installation)
+* [Installation](#installation)
 * [Usage](#usage)
 * [Contributers](#contributers)
 * [Tests](#tests)
@@ -63,19 +63,19 @@ ${data.usage}
 ${renderLicenseSection(data.license)}
 
 ## Contributers
-${data.Contributers}
+* ${data.Contributers}
 
 ## Tests
 Used the following command to run tests:
 ...
-${data.tests}
+ ${data.tests}
+...
 
 ## Questions
 Contact me with any questions
-  Github Name: ${data.username}
-  Repository Url: ${data.repo}
-  E-mail: ${data.email}
-
+*  [Github Name:]( ${data.username})
+*  [Repository Url:] (${data.repo})
+*  [E-mail:] (${data.email})
 
 `;
 }
