@@ -65,11 +65,13 @@ THEN I am taken to the corresponding section of the README
 ```md
 npm init
 npm install inquirer
+```
 
 ## Usage
 
 ```md
 node index.js
+```
 
 
 ## Contributers
