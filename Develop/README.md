@@ -1,9 +1,9 @@
 # Readme Generator
   kinziva
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
 
 ## Description
-create a readme file with user inputs
+This is a command-line application that runs with Node.js then generates a README.md file based on input of the user
 
 ## Table of Contents
 * [Installation](#installation)
@@ -22,9 +22,9 @@ Use following commands to install dependencies:
 node index.js
 
 ## License
-This repo is licensed under MIT  license
+This repo is licensed under ISC  license
  
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
 
 [Licence Url](${data.licenceurl})
 
@@ -34,13 +34,13 @@ This repo is licensed under MIT  license
 
 ## Tests
 Used the following command to run tests:
-...
-*in progress
-...
+
+* in progress
+
 
 ## Questions
 Contact me with any questions
 *  Github Name: kinziva
-*  [Repository Url:](www.github.com/kinziva)
+*  [Repository Url:](https://github.com/kinziva/)
 *  [E-mail:](hk@g.com)
 

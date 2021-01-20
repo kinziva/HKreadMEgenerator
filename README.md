@@ -4,8 +4,7 @@
 
 Every good project deserves a good README with information about the app so the users can install , run and contribute the app. Contributions of others helps to improve a bug free and better application.
 
-This is a command-line application that runs with Node.js then generates a README.md file based on input of the user about the project. Find the READMEsample.md in the repo to see a generated readme file.
-readmeSampleScreenshot.JPG
+This is a command-line application that runs with Node.js then generates a README.md file based on input of the user about the project. Find the README.md under the Develop in the repo to see a sample generated readme file. Screenshot of sample file added below.
  ![Sample README.md Screenshot](./Assets/readmeSampleScreenshot.JPG)
 
 ## User Story
@@ -92,49 +91,8 @@ Contact with me with any questions :[email](mailto:hk@gmail.com), [GitHub](https
 
 ## Video
 
-* Your GitHub repository containing your application code.
-
-
-Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality. Revisit the Screencastify Tutorial in the prework as a refresher on how to record video from your computer. You’ll need to submit a link to the video _and_ add it to the README of your project.
-
-
-
-### Walkthrough Video: 27%
-
-* A walkthrough video that demonstrates the functionality of the README generator must be submitted, and a link to the video should be included in your README file.
-
-* The walkthrough video must demonstrate how a user would invoke the application from the command line.
-
-* The walkthrough video must demonstrate how a user would enter responses to all of the prompts in the application.
-
-* The walkthrough video must demonstrate a generated README that matches the user input and has a functioning table of contents.
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the above acceptance criteria plus the following:
-
-	* Uses the [Inquirer package](https://www.npmjs.com/package/inquirer).
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains a high-quality README with description and a link to walkthrough video.
-
-
-## Review
-
-You are required to submit the following for review:
-
-* A walkthrough video demonstrating the functionality of the application.
-
-* A sample README.md file for a project repository generated using your application
-
-* The URL of the GitHub repository, with a unique name and a README describing the project
-
+ Click to Watch! Video Walktrough [![https://youtu.be/eUrc-DAhGp4 ]](https://youtu.be/eUrc-DAhGp4 "Readme Generator usage definition!") Explained following in the Video.
+* How to install the app
+* How to run the app
+* How to enter responses for the app 
+* Generated README.md in preview

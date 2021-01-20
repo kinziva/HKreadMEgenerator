@@ -68,9 +68,9 @@ ${renderLicenseSection(data.license,data.licenceurl)}
 
 ## Tests
 Used the following command to run tests:
-...
-*${data.tests}
-...
+
+* ${data.tests}
+
 
 ## Questions
 Contact me with any questions
