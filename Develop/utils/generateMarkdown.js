@@ -13,7 +13,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(licenceurl) {
   if (licenceurl !== "None"){
-    return '[Licence Url]( ${licenceurl})'
+    return '[Licence Url](${data.licenceurl})'
   }
   else
   return '* '
@@ -53,16 +53,15 @@ ${data.description}
 * [License](#licence)
 * [Questions](#questions)
 
-## installation
+## Installation
 Use following commands to install dependencies:
-...
 * ${data.installation}
-...
+
 
 ## Usage
 ${data.usage}
 
-${renderLicenseSection(data.license,data.licenseurl)}
+${renderLicenseSection(data.license,data.licenceurl)}
 
 ## Contributers
 * ${data.Contributers}

@@ -1,9 +1,9 @@
-# Read me generator
+# Readme Generator
   kinziva
-  ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-create a radme file with use rinputs
+create a readme file with user inputs
 
 ## Table of Contents
 * [Installation](#installation)
@@ -13,19 +13,20 @@ create a radme file with use rinputs
 * [License](#licence)
 * [Questions](#questions)
 
-## installation
+## Installation
 Use following commands to install dependencies:
-npm install
+* npm install
+
 
 ## Usage
 node index.js
 
 ## License
-This repo is licensed under ISC  license
+This repo is licensed under MIT  license
  
-![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-[Licence Url]( ${licenceurl})
+[Licence Url](${data.licenceurl})
 
 
 ## Contributers
@@ -34,12 +35,12 @@ This repo is licensed under ISC  license
 ## Tests
 Used the following command to run tests:
 ...
- in progress
+*in progress
 ...
 
 ## Questions
 Contact me with any questions
 *  Github Name: kinziva
-*  [Repository Url](https://github.com/kinziva)
-*  [E-mail](hk@g.com)
+*  [Repository Url:](www.github.com/kinziva)
+*  [E-mail:](hk@g.com)
 
