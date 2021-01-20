@@ -5,6 +5,8 @@
 Every good project deserves a good README with information about the app so the users can install , run and contribute the app. Contributions of others helps to improve a bug free and better application.
 
 This is a command-line application that runs with Node.js then generates a README.md file based on input of the user about the project. Find the READMEsample.md in the repo to see a generated readme file.
+readmeSampleScreenshot.JPG
+ ![Sample README.md Screenshot](./Assets/readmeSampleScreenshot.JPG)
 
 ## User Story
 
